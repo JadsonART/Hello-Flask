@@ -85,10 +85,3 @@ Este projeto é uma aplicação web simples desenvolvida com o microframework **
    ```
 
 ---
-
-## 📄 Licença
-
-Este projeto é apenas para fins educacionais e não possui licença específica.  
-Sinta-se livre para reutilizar ou modificar.
-
----
